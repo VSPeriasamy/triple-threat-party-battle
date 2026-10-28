@@ -1,0 +1,9 @@
+{
+  "name": "triple-threat-party-battle",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Dependency-free local test build of Triple Threat: Quiz Battle, Bluff Battle, Reaction Rush",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
